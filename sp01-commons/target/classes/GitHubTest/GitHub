@@ -16,6 +16,8 @@ turbine:
 
 https://github.com/MoMoHuaiNianNi/GitHubTestDemo/edit/master/sp01-commons/src/main/resources/GitHubTest/GitHub
 
+https://github.com/MoMoHuaiNianNi/GitHubTestDemo/edit/master/sp01-commons/src/main/resources/GitHubTest/GitHub
+
 #turbine:
 #  app-config: order-service, zuul
 #  cluster-name-expression: new String("default")
