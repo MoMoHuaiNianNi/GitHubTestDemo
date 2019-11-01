@@ -13,4 +13,3 @@ eureka:
 turbine:
   app-config: order-service, zuul
   cluster-name-expression: new String("default")
-
